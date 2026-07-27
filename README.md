@@ -8,21 +8,20 @@
   </p>
 
   <p align="center">
-    <a href="[https://architect-showcase-two.vercel.app/](https://architect-showcase-two.vercel.app/)" target="_blank">
-      <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🌐_DEMO_EN_VIVO-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+    <a href="https://architect-showcase-two.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/DEMO_EN_VIVO-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
     </a>
   </p>
 
   <p align="center">
-    <a href="[https://nextjs.org](https://nextjs.org)"><img src="[https://img.shields.io/badge/Next.js_15-black?style=for-the-badge&logo=next.js&logoColor=white](https://img.shields.io/badge/Next.js_15-black?style=for-the-badge&logo=next.js&logoColor=white)" alt="Next.js"></a>
-    <a href="[https://www.typescriptlang.org/](https://www.typescriptlang.org/)"><img src="[https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)" alt="TypeScript"></a>
-    <a href="[https://threejs.org/](https://threejs.org/)"><img src="[https://img.shields.io/badge/Three.js](https://img.shields.io/badge/Three.js)_|_R3F-black?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"></a>
-    <a href="[https://greensock.com/gsap/](https://greensock.com/gsap/)"><img src="[https://img.shields.io/badge/GSAP_ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=black](https://img.shields.io/badge/GSAP_ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=black)" alt="GSAP"></a>
-    <a href="[https://tailwindcss.com/](https://tailwindcss.com/)"><img src="[https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)" alt="Tailwind CSS"></a>
-    <a href="[https://pika.art](https://pika.art)"><img src="[https://img.shields.io/badge/GenAI-Pika](https://img.shields.io/badge/GenAI-Pika)_|_Pollo.ai-purple?style=for-the-badge" alt="GenAI"></a>
+    <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+    <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js_%7C_R3F-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"></a>
+    <a href="https://greensock.com/gsap/"><img src="https://img.shields.io/badge/GSAP_ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a>
+    <a href="https://pika.art"><img src="https://img.shields.io/badge/GenAI-Pika_%7C_Pollo.ai-8A2BE2?style=for-the-badge" alt="GenAI"></a>
   </p>
 </div>
-
 ---
 
 ## 📸 Galería del Showcase (16 Screenshots)
@@ -132,31 +131,6 @@ architect-showcase/
 │   └── hooks/                   # Custom Hooks
 └── package.json
 ```
-
----
-
-## ⚙️ Guía de Instalación y Ejecución Local
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone https://github.com/Tommyx66/architect-showcase.git
-   cd architect-showcase
-   ```
-
-2. **Instalar dependencias:**
-   ```bash
-   npm install
-   ```
-
-3. **Ejecutar en entorno de desarrollo:**
-   ```bash
-   npm run dev
-   ```
-
-4. **Abrir en el navegador:**
-   Navegar a `http://localhost:3000`
-
----
 
 ## 🛡️ Licencia & Autoría
 
